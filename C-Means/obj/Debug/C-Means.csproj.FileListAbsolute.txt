@@ -1,0 +1,16 @@
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\C-Means.exe.config
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\C-Means.exe
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\C-Means.pdb
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\Practice_Artificial intelligence.exe
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\EntityFramework.dll
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\Practice_Artificial intelligence.pdb
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\Practice_Artificial intelligence.exe.config
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\EntityFramework.xml
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\obj\Debug\C-Means.csproj.AssemblyReference.cache
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\obj\Debug\C-Means.csproj.SuggestedBindingRedirects.cache
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\obj\Debug\C-Means.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\obj\Debug\C-Means.csproj.CopyComplete
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\obj\Debug\C-Means.exe
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\obj\Debug\C-Means.pdb
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\C-Means\bin\Debug\EntityFramework.SqlServer.xml

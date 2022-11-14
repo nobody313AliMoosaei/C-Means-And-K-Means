@@ -1,0 +1,13 @@
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\bin\Release\Practice_Artificial intelligence.exe.config
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\bin\Release\Practice_Artificial intelligence.exe
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\bin\Release\Practice_Artificial intelligence.pdb
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\bin\Release\EntityFramework.dll
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\bin\Release\EntityFramework.SqlServer.dll
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\bin\Release\EntityFramework.xml
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\bin\Release\EntityFramework.SqlServer.xml
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\obj\Release\Practice_Artificial intelligence.csproj.AssemblyReference.cache
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\obj\Release\Practice_Artificial intelligence.csproj.SuggestedBindingRedirects.cache
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\obj\Release\Practice_Artificial intelligence.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\obj\Release\Practice_Artificial intelligence.csproj.CopyComplete
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\obj\Release\Practice_Artificial intelligence.exe
+D:\Project\Visual Studio 2022\Console\Practice_Artificial intelligence\Practice_Artificial intelligence\obj\Release\Practice_Artificial intelligence.pdb
